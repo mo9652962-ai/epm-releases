@@ -4,7 +4,7 @@
 
 ## 这是什么
 
-[AI 英语刷题机](https://github.com/mo9652962-ai/english-multiple-choice-practice-machine) 的自动更新源。
+[墨题 · 英语刷题机](https://github.com/mo9652962-ai/english-multiple-choice-practice-machine) 的自动更新源。
 应用通过 `electron-updater` 检查本仓库 Releases，实现 **Windows 一键自动更新**。
 
 ## 版本策略
@@ -40,3 +40,7 @@ latest.yml                    electron-updater 元数据（勿手动修改）
 ---
 
 *本仓库由 Hermes Agent 自动维护 — 每次发布自动生成 Release + 更新元数据。*
+
+## ⭐ 支持项目
+
+如果墨题对你有帮助，欢迎到[源码仓库](https://github.com/mo9652962-ai/english-multiple-choice-practice-machine)点个 ⭐ Star！
