@@ -39,6 +39,12 @@ latest.yml                    electron-updater 元数据（勿手动修改）
 
 ---
 
+## 📄 开源许可证
+
+本项目基于 [MIT 许可证](LICENSE) 开源发布。
+
+---
+
 *本仓库由 Hermes Agent 自动维护 — 每次发布自动生成 Release + 更新元数据。*
 
 ## ⭐ 支持项目
