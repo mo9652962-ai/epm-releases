@@ -39,9 +39,11 @@ latest.yml                    electron-updater 元数据（勿手动修改）
 
 ---
 
-## 📄 开源许可证
+## 📄 许可证、安全与隐私
 
-本项目基于 [MIT 许可证](LICENSE) 开源发布。
+- **开源许可证**：本项目基于 [MIT 许可证](LICENSE) 开源发布。
+- **安全政策**：详见 [SECURITY.md](SECURITY.md)。
+- **隐私政策**：详见 [PRIVACY.md](PRIVACY.md)（本地优先 · 零遥测）。
 
 ---
 
